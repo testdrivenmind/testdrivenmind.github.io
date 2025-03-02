@@ -21,9 +21,7 @@
 title: Navaneeth's blog
 email: zorbhathebuddha@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A guide for beginners in software programming, aimed at simplifying the journey I once found challenging. 
-  If you're curious about the 'why's,' histories, philosophies and 'how's' of programming, you'll find useful insights here. 
-  I’m deeply grateful to those who helped me along the way, and I aim to pay it forward in the same spirit
+ 
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://testdrivenmind.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zorbhathebuddha
